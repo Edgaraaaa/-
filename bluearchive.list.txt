@@ -1,0 +1,20 @@
+# > 碧蓝档案
+DOMAIN,yostar-serverinfo.bluearchiveyostar.com
+DOMAIN,ba-jp-sdk.bluearchive.jp
+DOMAIN,prod-noticeindex.bluearchiveyostar.com
+DOMAIN,prod-clientpatch.bluearchiveyostar.com
+DOMAIN,api-push.open.yo-star.com
+DOMAIN,prod-gateway.bluearchiveyostar.com
+DOMAIN,prod-game.bluearchiveyostar.com
+DOMAIN,prod-voice.bluearchiveyostar.com
+DOMAIN,prod-notice.bluearchiveyostar.com
+DOMAIN,webusstatic.yo-star.com
+DOMAIN,yostar-oversea-netsdk-logging.ap-southeast-1.log.aliyuncs.com
+DOMAIN-KEYWORD,bluearchiveyostar
+DOMAIN-KEYWORD,yo-star
+DOMAIN-KEYWORD,yostar
+# > 赛马娘
+DOMAIN,prd-storage-app-umamusume.akamaized.net
+DOMAIN,api-umamusume.cygames.jp
+DOMAIN,api-common01.cygames.jp
+DOMAIN,prd-info-umamusume.akamaized.net
